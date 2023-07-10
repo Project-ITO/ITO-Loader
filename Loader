@@ -1,5 +1,5 @@
 if game.PlaceId == 3956818381 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Project-ITO/ITO-Loader/main/SubNJ"))()
-elseif game.PlaceId == 310166789 then
+elseif game.PlaceId == 3101667897 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Project-ITO/ITO-Loader/main/SubLOS"))()
 end
